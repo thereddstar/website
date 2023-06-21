@@ -19,7 +19,7 @@ nav{
     background-image: url(headerbgimg.jpg) ;
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 1000px;
+    width: fit-content;
     margin-left: auto;
     margin-right: auto;
     
@@ -41,7 +41,7 @@ p{
 
 h1{
     font-family: RobotoSlab;
-    font-size: xxx-large;
+    font-size: xx-large;
     font-weight: 900;
     color: aliceblue;
     margin-top: 30px;
